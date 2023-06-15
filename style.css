@@ -1,0 +1,22 @@
+body{
+    background-color:yellow;
+    font-family: 'Indie Flower', cursive;
+}
+#div1,#div2{
+    border-radius: 10px;
+    background-color: aqua;
+    padding:10px;
+    margin: 20px;
+    width: 60%;
+    box-shadow: 5px 5px 30px black;
+}
+#loginbtn{
+    background-color: lightgreen;
+    width: 40%;
+    height: 7%;
+}
+#h1{
+    margin-top: 120px;
+    text-shadow: 2px 2px 5px aqua;
+
+}
